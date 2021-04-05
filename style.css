@@ -73,7 +73,7 @@ li > a {
     background: #f7f7f7;
     border-radius: 5px;
     box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2);
-    display: flex;
+    display: none;
     left: -120px;
     padding: 1rem;
     position: absolute;
